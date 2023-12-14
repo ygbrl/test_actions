@@ -1,4 +1,4 @@
-ame: Control Push
+name: Control Push
 on: push
 jobs:
   qa:
